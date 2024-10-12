@@ -99,6 +99,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Privacy Enhancing Technologies Lab
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Research Intern (undergraduate)
+        caption: Sep 2019 - Dec 2019
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            I Collaborated with a research team to develop a method for generating pseudo-random numbers using smart contract-based blockchain technology.
+      - layout: left
         title: Korean National Police
         # link: boringcompany.com
         # link_text: boringcompany.com
