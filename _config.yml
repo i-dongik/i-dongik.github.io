@@ -99,6 +99,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: SK networks family AI Program
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: Oct 2024 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            I joined in a program focused on developing web applications using large language models.
+      - layout: left
         title: Privacy Enhancing Technologies Lab
         # link: boringcompany.com
         # link_text: boringcompany.com
