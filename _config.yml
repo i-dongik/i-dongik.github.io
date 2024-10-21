@@ -117,7 +117,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I Collaborated with a research team to develop a method for generating pseudo-random numbers using smart contract-based blockchain technology.
+            I collaborated with a research team to develop a method for generating pseudo-random numbers using smart contract-based blockchain technology.
       - layout: left
         title: Korean National Police
         # link: boringcompany.com
