@@ -107,7 +107,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I joined the program focused on developing web applications using large language models.
+            I joined the program focused on developing web applications using large language models. The application project will be uploaded on GitHub.
       - layout: left
         title: Privacy Enhancing Technologies Lab
         # link: boringcompany.com
