@@ -146,8 +146,8 @@ content:
         # quote: >
         #   Conferences
         description: | # this will include new lines to allow paragraphs
-            - Shin, D., Kim, MD, B., & Baek, S. (2023, October). CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 275-284). Cham: Springer Nature Switzerland.
-            - Kim, S. W., Kim, S., Shin, D., Choi, J. H., Sim, J. S., Baek, S., & Yoon, J. S. (2023). Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome. BMC Musculoskeletal Disorders, 24(1), 524.
+            - [W.1] Shin, D., Kim, MD, B., & Baek, S. (2023, October). CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 275-284). Cham: Springer Nature Switzerland.
+            - [J.1] Kim, S. W., Kim, S., Shin, D., Choi, J. H., Sim, J. S., Baek, S., & Yoon, J. S. (2023). Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome. BMC Musculoskeletal Disorders, 24(1), 524.
 
   # - title: A Little More About Me
   #   layout: text
