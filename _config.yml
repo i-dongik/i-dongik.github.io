@@ -49,7 +49,10 @@ instagram_username: i.dongik
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dongik and I'm an enthusiastic artificial intelligence researcher. I was a master student at Korea university. I am currently looking to study abroad.
-  As well as AI researcher I am also interested in real estate, public and civil law, so I am studying to earn a real estate agent license.
+  My primary research interest lies in computer vision & machine perception. 
+  Specifically, I am eager to explore problems related to bridging gaps between domains and techniques to understand the decision processes of models. 
+  Moreover, I am interested in working on how to optimize and apply models in specific fields such as healthcare. 
+  As well as an AI researcher I am also interested in real estate, public and civil law, so I am studying to earn a real estate agent license.
   My CV may not be impressive, but I am enthusiastically working towards improvement. I'm still working on my personal page.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -84,8 +87,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my master’s program at Korea university, I took on the challenge of entering the field of artificial intelligence for the first time. I conducted research in the area of computer vision using medical data.
-          I developed methodology for lesion segmentation in ultrasound images and designed an application with graphical user interface (GUI) to facilitate segmentation tasks. As part of the project, I also designed a pipeline for effective alignment of datasets to ensure compatibility between external and internal datasets.          
+          During my master’s program at Korea university, I took on the challenge of entering the field of artificial intelligence for the first time. 
+          I conducted research in the area of computer vision using medical data.
+          I developed methodology for lesion segmentation in ultrasound images and designed an application with graphical user interface (GUI) to facilitate segmentation tasks. 
+          As part of the project, I also designed a pipeline for effective alignment of datasets to ensure compatibility between external and internal datasets.          
       - layout: left
         title: Korea University
         caption: Mar 2015 - Feb 2021
@@ -93,7 +98,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Korea university, I learnt most of my key skills. I thouroughly enjoyed my time at university and learnt a lot across various fields.
+          During my time at Korea university, I learnt most of my key skills about computer science. 
+          I thouroughly enjoyed my time at university and learnt various  across various fields.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,11 +109,11 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 
-        caption: Oct 2024 - Present
+        caption: Oct 2024 - Apr 2025
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I joined the program focused on developing web applications using large language models. The application project will be uploaded on GitHub.
+            I joined the program focused on developing web applications using large-language models (LLMs). The application project will be uploaded on GitHub.
       - layout: left
         title: Privacy Enhancing Technologies Lab
         # link: boringcompany.com
@@ -118,6 +124,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             I collaborated with a research team to develop a method for generating pseudo-random numbers using smart contract-based blockchain technology.
+
       - layout: left
         title: Korean National Police
         # link: boringcompany.com
