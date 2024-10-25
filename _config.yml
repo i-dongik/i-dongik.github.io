@@ -85,7 +85,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my master’s program at Korea university, I took on the challenge of entering the field of artificial intelligence for the first time. I conducted research in the area of computer vision using medical data.
-          I developed methodology for lesion segmentation in ultrasound images and designed an application with graphical user interface (GUI) to facilitate segmentation tasks. Specifically, I integrated a model with a layer by adapting the foundation model for domain with its heterogeneity. As part of the project, I also designed a pipeline for effective alignment of datasets to ensure compatibility between external and internal datasets.          
+          I developed methodology for lesion segmentation in ultrasound images and designed an application with graphical user interface (GUI) to facilitate segmentation tasks. As part of the project, I also designed a pipeline for effective alignment of datasets to ensure compatibility between external and internal datasets.          
       - layout: left
         title: Korea University
         caption: Mar 2015 - Feb 2021
