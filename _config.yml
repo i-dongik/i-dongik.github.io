@@ -48,13 +48,13 @@ instagram_username: i.dongik
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dongik and I'm an enthusiastic artificial intelligence researcher. I was a master student at Korea university. I am currently looking to study abroad.
-  My primary research interest lies in computer vision & machine perception. 
-  Specifically, I am eager to explore problems related to bridging gaps between domains and techniques to understand the decision processes of models. 
+  Hi, my name's Dongik and I'm an enthusiastic artificial intelligence researcher. I was a master's student at Korea university, and I am currently looking to study abroad.
+  My primary research interest lies in computer vision and machine perception. 
+  Specifically, I am eager to explore problems related to bridging gaps between domains and techniques for understanding the decision-making processes of models. 
   Moreover, I am interested in working on how to optimize and apply models in specific fields such as healthcare. 
 
-  As well as an AI researcher I am also interested in real estate, public and civil law, so I am studying to earn a real estate agent license.
-  My CV may not be impressive, but I am enthusiastically working towards improvement. I'm still working on my personal page.
+  In addition to being an AI researcher, I am also interested in public and civil law related to real estate, so I am studying to earn a real estate agent license.
+  My CV may not be impressive, but I am enthusiastically working toward improvement. I'm still working on my personal page.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
