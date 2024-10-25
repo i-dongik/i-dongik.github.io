@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   My primary research interest lies in computer vision & machine perception. 
   Specifically, I am eager to explore problems related to bridging gaps between domains and techniques to understand the decision processes of models. 
   Moreover, I am interested in working on how to optimize and apply models in specific fields such as healthcare. 
-  
+
   As well as an AI researcher I am also interested in real estate, public and civil law, so I am studying to earn a real estate agent license.
   My CV may not be impressive, but I am enthusiastically working towards improvement. I'm still working on my personal page.
 
@@ -100,7 +100,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Korea university, I learnt most of my key skills about computer science. 
-          I thouroughly enjoyed my time at university and learnt various  across various fields.
+          I thoroughly enjoyed my time on campus and learned a lot, from fundamental theory to application across fields, with information theory being my most memorable and fasinating course work. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
