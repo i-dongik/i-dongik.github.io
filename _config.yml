@@ -1,5 +1,5 @@
 # Site
-repository: DongDong500
+repository: i-dongik
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Dongik Shin
 title: AI Researcher
 email: sdimivy014@gmail.com
-# website: www.github.com/DongDong500
+website: https://blog.naver.com/i-dongik
 
 # Dark Mode (true/false/never)
 darkmode: false
